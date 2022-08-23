@@ -7,7 +7,8 @@
 - PostgreSQL
 ## Schema
 
-![drawSQL-export-2022-08-23_13_59](https://user-images.githubusercontent.com/88520952/186177079-a097a95f-6e0e-40f0-8adf-bf329f454bfd.png)
+![drawSQL-export-2022-08-23_14_55](https://user-images.githubusercontent.com/88520952/186177800-897bae3b-7e32-436c-be61-b362413d6e2e.png)
+
 
 
 
