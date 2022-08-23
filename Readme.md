@@ -30,8 +30,8 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 👤  Michael 
 
-- GitHub: [@udeaghad](https://github.com/MICHAELMUNAVU83)
-- Twitter: [@theodoz](https://twitter.com/MichaelTrance1)
+- GitHub: [@Michael](https://github.com/MICHAELMUNAVU83)
+- Twitter: [@Michael](https://twitter.com/MichaelTrance1)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/michael-munavu/)
 
 ## 🤝 Contributing
